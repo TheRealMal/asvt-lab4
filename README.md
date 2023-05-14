@@ -17,4 +17,5 @@
 |0xA|Сохраняет в начальный РОН(0) результат из РОН(1)|
 |0xB|Очищает РОН(1), на выход подается содержимое РОН(0)|
 ## MTEMU
-![scrnsht](mtemu_right.png)
+![mtemu_1](mtemu_right.png)  
+![mtemu_2](mtemu_bin.png)
